@@ -1,4 +1,4 @@
-# Car Price Prediction Project
+# Car Price Prediction Model Project
 
 ## Overview
 
@@ -12,7 +12,7 @@ The data was sourced from Kaggle https://www.kaggle.com/datasets/CooperUnion/car
 
 1. Data Cleaning
 
- The dataset underwent thorough cleaning to handle missing values, outliers, and inconsistencies. This ensures the quality and reliability of the data used for modeling.
+The dataset underwent thorough cleaning to handle missing values, outliers, and inconsistencies. This ensures the quality and reliability of the data used for modeling.
 
 2. Exploratory Data Analysis (EDA)
 
@@ -32,7 +32,7 @@ The data was sourced from Kaggle https://www.kaggle.com/datasets/CooperUnion/car
 
 ## Results 
 
-- After incorporating additional features and applying regularization, the RMSE improved to 51 on validation data.
+- After incorporating additional features and applying regularization to the model, the RMSE improved to 51 on validation data.
 
 - Despite regularization efforts, the model still exhibited signs of overfitting, as indicated by an increase in RMSE on the validation data compared to the training data.
 
