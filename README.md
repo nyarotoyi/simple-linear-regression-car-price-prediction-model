@@ -48,3 +48,4 @@ The data was sourced from Kaggle https://www.kaggle.com/datasets/CooperUnion/car
 ## Conclusion
 
 Despite the challenges encountered in building an accurate car price prediction model, this project serves as a valuable learning experience in data preprocessing, feature engineering, model selection, and evaluation. By addressing the limitations and incorporating feedback from evaluation results, we can work towards building a more robust and reliable model for car price prediction.
+More details on the model building and specific challenges are highlighted on the ipynb file.
