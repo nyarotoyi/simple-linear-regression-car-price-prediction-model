@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to utilize Linear regression model to predict the prices of cars based on various features such as make, model, year, mileage, and more. By building a machine learning model, we can provide estimates of car prices to assist buyers, sellers, and dealerships in making informed decisions.
+This project aims to utilize Linear regression model to predict the prices of cars based on various features such as make, model, year, mileage, and more. This machine learning model can provide estimates of car prices to assist buyers, sellers, and dealerships in making informed decisions.
 
 The data was sourced from Kaggle https://www.kaggle.com/datasets/CooperUnion/cardataset
 
